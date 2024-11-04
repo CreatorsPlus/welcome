@@ -9,7 +9,7 @@ If you have questions, feel free to reach out in this channel. Let's make this a
 ## Entry Exam
 To get started, please complete the entry exam with the instructor. This will help us understand your current skill level and how we can best support you.
   ### resources
-  - [Entry Exam](https://www.google.com)
+  - [Entry Exam](Docs/entry-exam-wt.md)
     Welcome to the Entry Exam Walkthrough! We've created this guide to help you prepare for your upcoming exam. The practice questions here are similar to what you'll encounter in the actual test.
 
     Our goal isn't to keep the exam questions secret—instead, we want to help you understand the core concepts that each question tests. We recommend reviewing this walkthrough before starting your exam.
