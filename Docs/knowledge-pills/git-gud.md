@@ -17,7 +17,6 @@
     - [GitHub CLI](#github-cli)
     - [GitHub Desktop](#github-desktop)
     - [Git in VSCode](#git-in-vscode)
-  - [Vscode is a popular code editor, and it comes with Git integration out of the box. you can do most of the git operations from the editor itself.](#vscode-is-a-popular-code-editor-and-it-comes-with-git-integration-out-of-the-box-you-can-do-most-of-the-git-operations-from-the-editor-itself)
   - [Basic Git Configuration](#basic-git-configuration)
   - [Essential Git Commands](#essential-git-commands)
 
@@ -145,7 +144,9 @@ if you fancy a great GUI for git, easy to use and looks good! you get a complete
 ![GitHub Desktop](../knowledge-pills/media/github-desktop.png)
 
 ### Git in VSCode
+
 Vscode is a popular code editor, and it comes with Git integration out of the box. you can do most of the git operations from the editor itself.
+
 ---
 <details>
 <summary> 💡 Pro Tip: Terminal Choice in Windows</summary>
