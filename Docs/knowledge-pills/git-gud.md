@@ -149,7 +149,7 @@ Vscode is a popular code editor, and it comes with Git integration out of the bo
 
 ---
 <details>
-<summary> 💡 Pro Tip: Terminal Choice in Windows</summary>
+<summary> 💡 Pro Tip: what should I use??</summary>
 
 > This, in my opinion, is the best option for beginners, as you can see the changes you made in the code and the changes you made in the git in the same window. PICK THIS! -- Sal
 </details>
