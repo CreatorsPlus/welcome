@@ -51,7 +51,7 @@ This comprehensive TypeScript course covers fundamental to intermediate concepts
 
 ### 🛠️ Projects
 
-#### [Week 1 Project: Command-Line Calculator](#)
+#### Week 1 Project: Command-Line Calculator
 - Project Structure
 - Implementation Details
 - Testing Guidelines
