@@ -57,6 +57,15 @@ Welcome to Week 2! This week, we’ll dive deeper into advanced TypeScript conce
 
 ### 🔍 Additional Resources
 
+#### Week 2 Knowledge Pills:
+
+- [Runtime Environments in TypeScript](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/runtime-environments-KP.md)
+- [DOM and TypeScript](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/dom-typescript.md)
+- [Event Handling in TypeScript](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/event-types-KP.md)
+- [Form Handling in TypeScript](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/form-handling-KP.md)
+- [Browser Storage Types](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/browser-storage-types-KP.md)
+- [Async in TypeScript](https://github.com/CreatorsPlus/welcome/blob/main/Docs/knowledge-pills/w02/async-typescript.md)
+  
 #### Documentation
 - [DOM TypeScript Documentation](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
 - [Web APIs with TypeScript](https://github.com/microsoft/TypeScript/wiki/DOM-API-Support)
