@@ -10,13 +10,13 @@ Welcome to Creators Camp! We're excited to have you on board and look forward to
 ## 📚 Course Structure
 
 ### TypeScript Essential Training
-- [Week 1: TypeScript Fundamentals](Docs/course/week-1/README.md)
+- [Week 1: TypeScript Fundamentals](/week01.md)
   - Basic Types and Concepts
   - Functions and Interfaces
   - Classes and Error Handling
   - Project: Command-Line Calculator
 
-- [Week 2: Browser and DOM Integration](Docs/course/week-2/README.md)
+- [Week 2: Browser and DOM Integration](/week02.md)
   - DOM Manipulation
   - Event Handling
   - Async Operations
