@@ -12,6 +12,7 @@ Run this in your browser console (press F12):
 console.log("I'm in a browser!");
 console.log("Window width:", window.innerWidth);
 ```
+<img width="921" alt="Screenshot 2024-11-24 at 9 36 04 PM" src="https://github.com/user-attachments/assets/fce1fa79-2792-465b-9165-eaef57ceb2fd">
 
 ✅ If it works - You're in a browser!
 ❌ If it fails - You're probably in Node.js!
