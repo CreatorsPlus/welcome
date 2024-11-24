@@ -123,11 +123,6 @@ function greetWithDefault(name = "friend") {
 ```
 
 ## Additional Resources
-
-### Interactive Learning Platforms
-- [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- [Codecademy - JavaScript Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
-
 ### Documentation
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript.info - Functions](https://javascript.info/function-basics)
