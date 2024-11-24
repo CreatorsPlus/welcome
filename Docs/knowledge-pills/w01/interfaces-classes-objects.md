@@ -49,7 +49,7 @@ Think of building a house:
      hasGarage: true
    };
    ```
-
+---
 2. **Interface** = Building plans/requirements
    ```typescript
    interface House {
@@ -58,29 +58,9 @@ Think of building a house:
      hasGarage: boolean;
    }
    ```
-
-1. **Class** = House factory/builder
-   ```typescript
-   class HouseBuilder {
-     color: string;
-     rooms: number;
-     hasGarage: boolean;
-
-     constructor(color: string, rooms: number, hasGarage: boolean) {
-       this.color = color;
-       this.rooms = rooms;
-       this.hasGarage = hasGarage;
-     }
-
-     paint(newColor: string) {
-       this.color = newColor;
-     }
-   }
-   ```
-
-  ---
+  
   <details>
-  <summary> 💡 Wanna dig deeper??</summary>
+  <summary> 💡 Wanna dig deeper into interfaces??</summary>
 
   # TypeScript Interfaces: A Complete Guide
 
@@ -308,6 +288,32 @@ Think of building a house:
   </details>
 
   --- 
+
+1. **Class** = House factory/builder
+   ```typescript
+   class HouseBuilder {
+     color: string;
+     rooms: number;
+     hasGarage: boolean;
+
+     constructor(color: string, rooms: number, hasGarage: boolean) {
+       this.color = color;
+       this.rooms = rooms;
+       this.hasGarage = hasGarage;
+     }
+
+     paint(newColor: string) {
+       this.color = newColor;
+     }
+   }
+   ```
+
+<details>
+<summary> 💡 Wanna know more about classes? and classes best practices? </summary>
+
+> Find more here: [Classes advanced concepts and best practices](classes-best-practices-advanced-concepts.md)
+> 
+</details>
 
 
 ## Key Differences 🔑
