@@ -1,5 +1,5 @@
 # Complete Beginner's Guide to Git
-![git-scm.com](../knowledge-pills/media/header.png)
+![git-scm.com](../../knowledge-pills/media/header.png)
 ## Table of Contents
 - [Complete Beginner's Guide to Git](#complete-beginners-guide-to-git)
   - [Table of Contents](#table-of-contents)
@@ -30,9 +30,9 @@ Git is a distributed version control system that tracks changes in source code d
 
 1. Download Git from [git-scm.com](https://git-scm.com/download/windows)
 
-   ![git-scm.com](../knowledge-pills/media/git-windows.png?version%3D1732291048394)
+   ![git-scm.com](../../knowledge-pills/media/git-windows.png?version%3D1732291048394)
 2. Run the installer
-   ![git windows installer](../knowledge-pills/media/git-installer.png)
+   ![git windows installer](../../knowledge-pills/media/git-installer.png)
 ---
 <details>
 <summary> 💡 Pro Tip: Terminal Choice in Windows</summary>
@@ -43,10 +43,10 @@ Git is a distributed version control system that tracks changes in source code d
 > - Git from Git Bash (a Unix-like terminal emulator)
 > 
 > While all options work, this guide uses Git Bash as it provides a consistent Unix-like experience and better compatibility with Git-related commands and scripts.
-![gitBash](../knowledge-pills/media/git-terminal-win.png
+![gitBash](../../knowledge-pills/media/git-terminal-win.png
 )
 > the installer also adds Git GUI to your system. (but we can do better with GitHub Desktop or VSCode)
-> ![git GUI](../knowledge-pills/media/gw2.png)
+> ![git GUI](../../knowledge-pills/media/gw2.png)
 </details>
 
 ---
@@ -141,7 +141,7 @@ gh auth login
 if you fancy a great GUI for git, easy to use and looks good! you get a complete overview of your repository and its branches, commits, and changes. and you can do most of the git operations from the GUI itself.
 
 1. Download from [desktop.github.com](https://desktop.github.com)
-![GitHub Desktop](../knowledge-pills/media/github-desktop.png)
+![GitHub Desktop](../../knowledge-pills/media/github-desktop.png)
 
 ### Git in VSCode
 
@@ -162,7 +162,7 @@ Vscode is a popular code editor, and it comes with Git integration out of the bo
    - Git History
    - Git Graph
 
-![VSCode Git](../knowledge-pills/media/git-vscode.png)
+![VSCode Git](../../knowledge-pills/media/git-vscode.png)
 ## Basic Git Configuration
 
 Set up your identity:
