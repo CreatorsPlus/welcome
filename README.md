@@ -1,3 +1,8 @@
+
+![Creators Camp](https://img.shields.io/badge/Creators%20Camp-+-blue)
+
+![Creators Camp](assets/logo.png)
+
 # Creators Camp
 
 We're excited to have you on board and look forward to learning and growing together. Here's what you can expect:
