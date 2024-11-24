@@ -1,6 +1,7 @@
 ![Creators Camp](https://img.shields.io/badge/Creators%20Camp-+-blue)
 
-![Creators Camp](assets/logo.png)
+<img src="assets/logo.png" alt="Creators Camp" width="300"/>
+
 
 # Creators Camp
 
