@@ -31,12 +31,20 @@ document.body.style.backgroundColor = 'pink';
 ```
 
 ### Node.js Has:
+<details>
+    <summary>
+        Where to type this?
+    </summary>
+</details>
+
 ```typescript
 // 🛠️ These work in Node.js
 process.version      // Node version
 require('fs')        // File system
 __dirname           // Current folder
 ```
+<img width="686" alt="Screenshot 2024-11-24 at 9 39 27 PM" src="https://github.com/user-attachments/assets/240a3a4b-4b74-481a-93c0-f590cc98f28e">
+
 
 ## Quick Check! ✋
 Before writing code, ask:
