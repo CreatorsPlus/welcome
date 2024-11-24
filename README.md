@@ -3,7 +3,7 @@
 <img src="assets/logo.png" alt="Creators Camp" width="300"/>
 
 
-# Creators Camp
+# Creators+ Camp
 
 Welcome to Creators Camp! We're excited to have you on board and look forward to learning and growing together. This comprehensive program is designed to help you master TypeScript through hands-on learning and practical projects.
 
