@@ -254,8 +254,9 @@ main();
 ### Step 2: Run the Program
 1. Compile the TypeScript:
 ```bash
-npx tsc calculator.ts --target ES2016
+tsc 1-p1-calcualtor.ts --rootDir . --target ES2016 --module CommonJS --lib ES2016 --types node
 ```
+💊 Do you need a knowledge pill on tsconfig options?? why not raise an issue on this repo??
 
 2. Run the program:
 ```bash
