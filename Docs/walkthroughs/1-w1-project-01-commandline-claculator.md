@@ -1,5 +1,4 @@
-# TypeScript Calculator: Comprehensive Guide for Beginners
-
+# P1.TypeScript Calculator: Full walkthrough
 ## ⌚ READING TIME
 - 1 hour
 
