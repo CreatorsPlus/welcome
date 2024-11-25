@@ -1,12 +1,7 @@
 # TypeScript Calculator: Comprehensive Guide for Beginners
 
-## 🎯 Key Features of This Guide:
-- Bite-sized steps, easy to follow
-- Every line explained
-- Visual breaks between sections
-- Clear markers for optional breaks
-- Important notes highlighted
-- Code tested at each step
+## ⌚ READING TIME
+- 1 hour
 
 ## 📝 Setup (Break Point 1)
 
